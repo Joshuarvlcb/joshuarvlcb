@@ -1,4 +1,4 @@
-### Hi there 👋, Joshua Ruvalcaba
+### Hi there 👋,I'm Joshua Ruvalcaba
 #### Front End Developer
 ![Front End Developer](https://media.giphy.com/media/xWMPYx55WNhX136T0V/giphy.gif)
 
