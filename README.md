@@ -28,6 +28,7 @@ I am Joshua from Phoenix, and I am a Front End Developer I really enjoy learning
 <br />
 
 ---
+### 🖥️ Latest Projects
 
 - 🔭 I’m currently working on this page. 
 
