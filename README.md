@@ -34,7 +34,7 @@ I am Joshua from Phoenix, and I am a Front End Developer I really enjoy learning
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Joshuarvlcb.vercel.app/api?username=Joshuarvlcb&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joshuarvlcb&show_icons=true&hide_border=true" />
 
 </details>
 
