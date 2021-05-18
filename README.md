@@ -1,6 +1,5 @@
 ### Hi there 👋,I'm Joshua Ruvalcaba
 #### Front End Developer
-![Front End Developer]
 
 I am Joshua from Phoenix, and I am a Front End Developer I really enjoy learning new languages and frameworks like React I also like to do wireframing for design and create flowcharts for the logic
 
