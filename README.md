@@ -4,11 +4,11 @@
 I am Joshua from Phoenix, and I am a Front End Developer I really enjoy learning new languages and frameworks like React I also like to do wireframing for design and create flowcharts for the logic
 
 ### Connect with me:
-<a href= "https://joshuarvlcb.com/"> 
+<a href= "https://joshuarvlcb.com/" target=”_blank”> 
 <img align="left" alt="portfolio website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
-<a href = "https://www.linkedin.com/in/joshua-ruvalcaba-3aba8b1b3/"> 
+<a href = "https://www.linkedin.com/in/joshua-ruvalcaba-3aba8b1b3/" target=”_blank”> 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
 
